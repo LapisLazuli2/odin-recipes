@@ -1,0 +1,29 @@
+.recipe-button {
+  font-size: 24px;
+}
+
+.body {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: rgb(219, 197, 240);
+}
+
+.header {
+    color:blueviolet;
+}
+
+.title {
+    font-family: 'Lucida Sans', sans-serif;
+    color: rgb(146, 4, 146);
+}
+
+.sub-header {
+    color: rgb(158, 91, 219)
+}
+
+.body, 
+.header, 
+.title, 
+.sub-header {
+    font-family: 'Lucida Handwriting', 'Brush Script MT', sans-serif;
+}
